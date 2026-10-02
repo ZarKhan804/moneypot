@@ -11,7 +11,7 @@ function Download() {
 
         <meta
           name="description"
-          content="Learn how to access Moneypot777 on compatible mobile devices, explore download information, platform features, account guidance, and gaming resources in Pakistan."
+          content="Moneypot777 mobile access, download information, platform features, and gaming resources in Pakistan."
         />
 
         <meta

@@ -8,7 +8,6 @@ function InternalLinksArticle() {
     >
       <div className="mx-auto max-w-5xl px-5 lg:px-8">
         <article className="rounded-2xl border border-gray-300 bg-white p-6 shadow-sm sm:p-8 lg:p-10">
-
           <h2
             id="blog-related-pages"
             className="text-2xl font-extrabold leading-tight text-gray-900 sm:text-3xl"
@@ -17,13 +16,11 @@ function InternalLinksArticle() {
           </h2>
 
           <div className="mt-5 space-y-5 text-base leading-8 text-gray-600">
-
             <p>
               The Moneypot777 Blog provides useful information and guides
               covering <strong>Moneypot777 latest version</strong>, online
               gaming topics, platform features, mobile access, account
-              guidance, and responsible gaming. Visitors can use these
-              resources to explore different topics related to the platform.
+              guidance, and responsible gaming.
             </p>
 
             <p>
@@ -49,8 +46,8 @@ function InternalLinksArticle() {
                 About Moneypot777
               </Link>{" "}
               page for additional background, platform resources, and
-              information about how to <strong>Moneypot777 register</strong>{" "}
-              an account.
+              information about how to <strong>Moneypot777 register</strong> an
+              account.
             </p>
 
             <h3 className="text-xl font-extrabold text-gray-900 sm:text-2xl">
@@ -62,9 +59,7 @@ function InternalLinksArticle() {
               platform features, account-related topics, security guidance,
               promotions, and responsible gaming. Visitors can also find
               information about <strong>Moneypot777 games</strong> and useful
-              guidance on how to play. Users should review the available
-              information carefully and follow applicable conditions when
-              using gaming-related services.
+              guidance on how to play.
             </p>
 
             <p>
@@ -89,9 +84,9 @@ function InternalLinksArticle() {
 
             <p>
               Visitors searching for payment-related information can also
-              explore topics such as <strong>Moneypot777 EasyPaisa</strong>{" "}
-              and <strong>Moneypot777 JazzCash</strong>, where available,
-              along with general account and payment guidance.
+              explore topics such as <strong>Moneypot777 EasyPaisa</strong> and{" "}
+              <strong>Moneypot777 JazzCash</strong>, where available, along
+              with general account and payment guidance.
             </p>
 
             <h3 className="text-xl font-extrabold text-gray-900 sm:text-2xl">
@@ -111,22 +106,17 @@ function InternalLinksArticle() {
             </p>
 
             <p>
-              These internal links connect the Home, About, Blog, Download,
-              and Contact sections, creating a clear navigation path between
-              related Moneypot777 resources and helping visitors find relevant
-              gaming and platform information.
+              These internal links connect the Home, About, Blog, Download, and
+              Contact sections, creating a clear navigation path between
+              related Moneypot777 resources.
             </p>
 
-            {/* 14 NEW BLOG ARTICLE TOPICS */}
             <div className="border-t border-gray-300 pt-6">
-
               <h3 className="text-xl font-extrabold text-gray-900 sm:text-2xl">
                 Moneypot777 Blog Articles
               </h3>
 
               <div className="mt-5 grid gap-x-10 gap-y-2 sm:grid-cols-2">
-
-                {/* LEFT SIDE */}
                 <div className="space-y-2">
                   <p>• Moneypot777 New Update and Features 2026</p>
                   <p>• Moneypot777 Mobile App Installation Guide</p>
@@ -137,7 +127,6 @@ function InternalLinksArticle() {
                   <p>• Moneypot777 Live Gaming Features</p>
                 </div>
 
-                {/* RIGHT SIDE */}
                 <div className="space-y-2">
                   <p>• Moneypot777 Game Interface and Navigation Guide</p>
                   <p>• Moneypot777 Account Login Troubleshooting</p>
@@ -147,10 +136,8 @@ function InternalLinksArticle() {
                   <p>• Moneypot777 Frequently Asked Questions</p>
                   <p>• Moneypot777 Beginner Guide 2026</p>
                 </div>
-
               </div>
             </div>
-
           </div>
         </article>
       </div>

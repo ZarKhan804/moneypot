@@ -8,7 +8,6 @@ function InternalLinksArticle() {
     >
       <div className="mx-auto max-w-5xl px-5 lg:px-8">
         <article className="rounded-2xl border border-gray-300 bg-white p-6 shadow-sm sm:p-8 lg:p-10">
-
           <h2
             id="moneypot777-related-pages"
             className="text-2xl font-extrabold leading-tight text-gray-900 sm:text-3xl"
@@ -17,12 +16,11 @@ function InternalLinksArticle() {
           </h2>
 
           <div className="mt-5 space-y-5 text-base leading-8 text-gray-600">
-
             <p>
-              Explore the main Moneypot777 sections to learn more about
-              the <strong>Moneypot777 About</strong> information, gaming
-              platform, available features, mobile access, account guidance,
-              download options, and useful gaming resources.
+              Explore the main Moneypot777 sections to learn more about the
+              <strong> Moneypot777 About</strong> information, gaming platform,
+              available features, mobile access, account guidance, download
+              options, and useful gaming resources.
             </p>
 
             <p>
@@ -45,8 +43,8 @@ function InternalLinksArticle() {
             </p>
 
             <p>
-              Visitors interested in <strong>Moneypot777 Features</strong>{" "}
-              and <strong>Moneypot777 Games</strong> can explore the{" "}
+              Visitors interested in <strong>Moneypot777 Features</strong> and{" "}
+              <strong>Moneypot777 Games</strong> can explore the{" "}
               <Link
                 to="/blog"
                 className="font-semibold text-yellow-600 underline decoration-yellow-400 underline-offset-4 hover:text-yellow-700"
@@ -70,8 +68,8 @@ function InternalLinksArticle() {
             </p>
 
             <p>
-              Players interested in <strong>Moneypot777 Online</strong>{" "}
-              access and platform information can also review the{" "}
+              Players interested in <strong>Moneypot777 Online</strong> access
+              and platform information can also review the{" "}
               <Link
                 to="/download"
                 className="font-semibold text-yellow-600 underline decoration-yellow-400 underline-offset-4 hover:text-yellow-700"
@@ -90,22 +88,17 @@ function InternalLinksArticle() {
 
             <p>
               Connecting these related sections creates a clearer internal
-              navigation structure between the Moneypot777 home page,
-              About information, gaming guides, contact resources, and download
-              information while making important platform topics easier to
-              discover.
+              navigation structure between the Moneypot777 home page, About
+              information, gaming guides, contact resources, and download
+              information.
             </p>
 
-            {/* 15 RELATED ARTICLE TOPICS */}
             <div className="border-t border-gray-300 pt-6">
-
               <h3 className="text-xl font-bold text-gray-900">
                 Moneypot777 Related Articles
               </h3>
 
               <div className="mt-5 grid gap-x-10 gap-y-2 sm:grid-cols-2">
-
-                {/* LEFT SIDE */}
                 <div className="space-y-2">
                   <p>• Moneypot777 Features and Platform Guide</p>
                   <p>• Moneypot777 Mobile Gaming Experience</p>
@@ -117,7 +110,6 @@ function InternalLinksArticle() {
                   <p>• Moneypot777 Deposit Guide</p>
                 </div>
 
-                {/* RIGHT SIDE */}
                 <div className="space-y-2">
                   <p>• Moneypot777 Game Categories Explained</p>
                   <p>• Moneypot777 Card Games Guide</p>
@@ -127,10 +119,8 @@ function InternalLinksArticle() {
                   <p>• Moneypot777 Beginner's Guide</p>
                   <p>• Moneypot777 Responsible Gaming Guide</p>
                 </div>
-
               </div>
             </div>
-
           </div>
         </article>
       </div>

@@ -5,13 +5,11 @@ function InternalLinksArticle() {
     <section className="bg-gray-200 py-10 sm:py-14">
       <div className="mx-auto max-w-5xl px-5 lg:px-8">
         <article className="rounded-2xl border border-gray-300 bg-white p-6 shadow-sm sm:p-8 lg:p-10">
-
           <h2 className="text-2xl font-extrabold leading-tight text-gray-900 sm:text-3xl">
             Moneypot777 Download & Mobile Access Guide
           </h2>
 
           <div className="mt-5 space-y-5 text-base leading-8 text-gray-600">
-
             <p>
               The <strong>Moneypot777 Download</strong> page provides
               information about accessing the gaming platform on compatible
@@ -25,8 +23,8 @@ function InternalLinksArticle() {
               Users looking for <strong>Moneypot777 APK Download</strong>{" "}
               information can review this page for general mobile access
               guidance. The page also provides information relevant to visitors
-              searching for <strong>Moneypot777 Download Pakistan</strong>{" "}
-              and supported device access.
+              searching for <strong>Moneypot777 Download Pakistan</strong> and
+              supported device access.
             </p>
 
             <p>
@@ -44,7 +42,7 @@ function InternalLinksArticle() {
             </p>
 
             <p>
-              Visitors interested in the <strong>Moneypot777 APK Pakistan</strong>{" "}
+              Visitors interested in <strong>Moneypot777 APK Pakistan</strong>{" "}
               can review the available platform information and check device
               compatibility before accessing any gaming service.
             </p>
@@ -85,17 +83,17 @@ function InternalLinksArticle() {
 
             <p>
               The Download section helps visitors find information about the
-              <strong> Moneypot777 Latest APK</strong> and mobile access to
-              the gaming platform. Before using any gaming service, users
-              should check device compatibility and review the applicable
-              terms, conditions, and requirements for their location.
+              <strong> Moneypot777 Latest APK</strong> and mobile access to the
+              gaming platform. Before using any gaming service, users should
+              check device compatibility and review the applicable terms,
+              conditions, and requirements for their location.
             </p>
 
             <p>
-              Visitors searching for the <strong>Moneypot777 APK 2026</strong>{" "}
-              should verify that the version and access information they are
-              reviewing is current and suitable for their device before
-              proceeding.
+              Visitors searching for the{" "}
+              <strong>Moneypot777 APK 2026</strong> should verify that the
+              version and access information they are reviewing is current and
+              suitable for their device before proceeding.
             </p>
 
             <h3 className="text-xl font-extrabold text-gray-900 sm:text-2xl">
@@ -120,7 +118,6 @@ function InternalLinksArticle() {
               additional information about the platform, gaming resources,
               mobile access, and available support options.
             </p>
-
           </div>
         </article>
       </div>
