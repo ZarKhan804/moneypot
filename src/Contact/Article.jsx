@@ -1,108 +1,78 @@
+import React from "react";
 
-import { Mail, MessageCircle, Send } from "lucide-react";
-
-function Article() {
-  function handleSubmit(e) {
-    e.preventDefault();
-    alert("Message submitted successfully!");
-  }
-
+const Article = () => {
   return (
-    <section className="bg-gray-200">
-      <div className="mx-auto grid max-w-7xl gap-10 px-5 py-20 md:grid-cols-2">
+    <section className="bg-gray-200 py-4 sm:py-6">
+      <div className="mx-auto max-w-5xl px-6 lg:px-8">
+        <article className="rounded-2xl border border-gray-300 bg-white p-6 shadow-sm sm:p-8">
 
-        {/* LEFT CONTENT */}
-        <div className="text-center md:text-left">
-          <p className="text-sm font-bold uppercase tracking-[0.2em] text-yellow-600">
-            Contact
-          </p>
-
-          <h2 className="mt-3 text-4xl font-black text-slate-900">
-            We would love to hear from you
+          <h2 className="text-2xl font-extrabold text-gray-900 sm:text-3xl">
+            Moneypot777 Contact &amp; Support
           </h2>
 
-          <p className="mt-5 leading-8 text-slate-600">
-            If you have questions, suggestions or feedback about our
-            entertainment platform, use the form and send us a message.
+          <p className="mt-4 text-base leading-8 text-gray-600 sm:text-[17px]">
+            If you need <strong>Moneypot777 Contact</strong> information,
+            this page provides useful guidance for visitors looking for{" "}
+            <strong>Moneypot777 Contact Us</strong>,{" "}
+            <strong>Moneypot777 Support</strong>, and{" "}
+            <strong>Moneypot777 Customer Support</strong>. Users can find
+            general <strong>Moneypot777 Help</strong> and{" "}
+            <strong>Moneypot777 Customer Service</strong> information
+            related to account access, gaming, and platform questions.
+            Visitors needing <strong>Moneypot777 Game Support</strong>,{" "}
+            <strong>Moneypot777 App Support</strong>, or{" "}
+            <strong>Moneypot777 Online Support</strong> can review the
+            relevant information before contacting support. For{" "}
+            <strong>Moneypot777 Technical Support</strong>,{" "}
+            <strong>Moneypot777 Account Help</strong>,{" "}
+            <strong>Moneypot777 Login Help</strong>, or{" "}
+            <strong>Moneypot777 Registration Help</strong>, users should
+            provide accurate details. This page also covers{" "}
+            <strong>Moneypot777 Download Help</strong>,{" "}
+            <strong>Moneypot777 User Support</strong>,{" "}
+            <strong>Moneypot777 Assistance</strong>,{" "}
+            <strong>Moneypot777 Pakistan Contact</strong>, and{" "}
+            <strong>Moneypot777 Game Help</strong>.
           </p>
 
-          <div className="mx-auto mt-8 max-w-md space-y-4 md:mx-0">
+          {/* 14 CONTACT ARTICLE TOPICS */}
+          <div className="mt-8 border-t border-gray-300 pt-6">
 
-            <div className="flex items-center gap-4 rounded-xl border border-gray-300 bg-white p-4 text-left">
-              <Mail className="shrink-0 text-yellow-500" />
-              <span className="text-slate-700">
-                support@example.com
-              </span>
+            <h3 className="text-xl font-extrabold text-gray-900 sm:text-2xl">
+              Moneypot777 Contact &amp; Support Articles
+            </h3>
+
+            <div className="mt-5 grid gap-x-10 gap-y-2 text-base leading-7 text-gray-600 sm:grid-cols-2">
+
+              {/* LEFT SIDE */}
+              <div className="space-y-2">
+                <p>• Moneypot777 Contact and Support Guide</p>
+                <p>• Moneypot777 Customer Support Information</p>
+                <p>• Moneypot777 Account Help Guide</p>
+                <p>• Moneypot777 Login Support Guide</p>
+                <p>• Moneypot777 Registration Help</p>
+                <p>• Moneypot777 Download Support Guide</p>
+                <p>• Moneypot777 App Support Information</p>
+              </div>
+
+              {/* RIGHT SIDE */}
+              <div className="space-y-2">
+                <p>• Moneypot777 Payment Support Guide</p>
+                <p>• Moneypot777 Deposit Support Information</p>
+                <p>• Moneypot777 Withdrawal Support Guide</p>
+                <p>• Moneypot777 Technical Support Guide</p>
+                <p>• Moneypot777 Common Questions and Answers</p>
+                <p>• Moneypot777 Platform Help and Information</p>
+                <p>• Moneypot777 User Support Guide</p>
+              </div>
+
             </div>
-
-            <div className="flex items-center gap-4 rounded-xl border border-gray-300 bg-white p-4 text-left">
-              <MessageCircle className="shrink-0 text-yellow-500" />
-              <span className="text-slate-700">
-                Customer Support
-              </span>
-            </div>
-
           </div>
-        </div>
 
-        {/* FORM */}
-        <div className="flex justify-center md:justify-end">
-          <form
-            onSubmit={handleSubmit}
-            className="w-full max-w-xl rounded-2xl border border-gray-300 bg-white p-6 shadow-sm"
-          >
-            <div>
-              <label className="mb-2 block text-sm font-semibold text-slate-800">
-                Name
-              </label>
-
-              <input
-                required
-                type="text"
-                placeholder="Enter your name"
-                className="w-full rounded-xl border border-gray-300 bg-gray-50 px-4 py-3 text-slate-900 outline-none placeholder:text-gray-400 focus:border-yellow-400"
-              />
-            </div>
-
-            <div className="mt-5">
-              <label className="mb-2 block text-sm font-semibold text-slate-800">
-                Email
-              </label>
-
-              <input
-                required
-                type="email"
-                placeholder="Enter your email"
-                className="w-full rounded-xl border border-gray-300 bg-gray-50 px-4 py-3 text-slate-900 outline-none placeholder:text-gray-400 focus:border-yellow-400"
-              />
-            </div>
-
-            <div className="mt-5">
-              <label className="mb-2 block text-sm font-semibold text-slate-800">
-                Message
-              </label>
-
-              <textarea
-                required
-                rows="5"
-                placeholder="Write your message"
-                className="w-full resize-none rounded-xl border border-gray-300 bg-gray-50 px-4 py-3 text-slate-900 outline-none placeholder:text-gray-400 focus:border-yellow-400"
-              />
-            </div>
-
-            <button
-              type="submit"
-              className="mt-6 flex w-full items-center justify-center gap-2 rounded-xl bg-yellow-400 px-5 py-3.5 font-bold text-slate-950 transition hover:bg-yellow-300"
-            >
-              Send Message
-              <Send size={18} />
-            </button>
-          </form>
-        </div>
-
+        </article>
       </div>
     </section>
   );
-}
+};
 
 export default Article;
