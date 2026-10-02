@@ -22,7 +22,7 @@ function Contact() {
 
         <link
           rel="canonical"
-          href="https://moneypot777.com/contact"
+          href="https://www.moneypot777.com/contact"
         />
       </Helmet>
 

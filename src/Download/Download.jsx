@@ -21,7 +21,7 @@ function Download() {
 
         <link
           rel="canonical"
-          href="https://moneypot777.com/download"
+          href="https://www.moneypot777.com/download"
         />
       </Helmet>
 

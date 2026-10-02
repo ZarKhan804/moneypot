@@ -21,7 +21,7 @@ function About() {
 
         <link
           rel="canonical"
-          href="https://moneypot777.com/about"
+          href="https://www.moneypot777.com/about"
         />
       </Helmet>
 

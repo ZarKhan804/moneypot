@@ -1,4 +1,3 @@
-
 import { Helmet } from "react-helmet-async";
 import HeroSection from "./HeroSection";
 import GameSection from "./GameSection";
@@ -23,7 +22,7 @@ function Home() {
 
         <link
           rel="canonical"
-          href="https://moneypot777.com/"
+          href="https://www.moneypot777.com/"
         />
       </Helmet>
 
@@ -38,4 +37,3 @@ function Home() {
 }
 
 export default Home;
-

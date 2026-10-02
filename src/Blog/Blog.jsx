@@ -21,7 +21,7 @@ function Blog() {
 
         <link
           rel="canonical"
-          href="https://moneypot777.com/blog"
+          href="https://www.moneypot777.com/blog"
         />
       </Helmet>
 
